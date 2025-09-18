@@ -1,0 +1,14 @@
+/Users/bdcalling/Documents/c#/name/bin/Debug/net9.0/name
+/Users/bdcalling/Documents/c#/name/bin/Debug/net9.0/name.deps.json
+/Users/bdcalling/Documents/c#/name/bin/Debug/net9.0/name.runtimeconfig.json
+/Users/bdcalling/Documents/c#/name/bin/Debug/net9.0/name.dll
+/Users/bdcalling/Documents/c#/name/bin/Debug/net9.0/name.pdb
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.AssemblyInfoInputs.cache
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.AssemblyInfo.cs
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.csproj.CoreCompileInputs.cache
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.dll
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/refint/name.dll
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.pdb
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.genruntimeconfig.cache
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/ref/name.dll
