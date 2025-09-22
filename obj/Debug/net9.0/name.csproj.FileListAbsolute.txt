@@ -12,3 +12,4 @@
 /Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.pdb
 /Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.genruntimeconfig.cache
 /Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/ref/name.dll
+/Users/bdcalling/Documents/c#/name/obj/Debug/net9.0/name.sourcelink.json
