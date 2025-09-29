@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bdcalling/Documents/c#/name/name.csproj": {}
+    "/Users/bdcalling/Documents/C-/name.csproj": {}
   },
   "projects": {
-    "/Users/bdcalling/Documents/c#/name/name.csproj": {
+    "/Users/bdcalling/Documents/C-/name.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bdcalling/Documents/c#/name/name.csproj",
+        "projectUniqueName": "/Users/bdcalling/Documents/C-/name.csproj",
         "projectName": "name",
-        "projectPath": "/Users/bdcalling/Documents/c#/name/name.csproj",
+        "projectPath": "/Users/bdcalling/Documents/C-/name.csproj",
         "packagesPath": "/Users/bdcalling/.nuget/packages/",
-        "outputPath": "/Users/bdcalling/Documents/c#/name/obj/",
+        "outputPath": "/Users/bdcalling/Documents/C-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bdcalling/.nuget/NuGet/NuGet.Config"
