@@ -28,7 +28,7 @@ namespace HelloWorld
             const int myNum = 15;
 
             Console.WriteLine(myNum);
-            // aksdjf asdfasdf askldfn adsfadf adsfa jhgjkh
+            // aksdjf asdfasdf askldfn adsfadf adsfa jhgjkh adf
         }
     }
 }
