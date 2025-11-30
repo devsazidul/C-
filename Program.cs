@@ -19,7 +19,7 @@ namespace HelloWorld
             Console.WriteLine("Hello word! -1");
             Console.WriteLine(5 + 5);
 
-            // WriteLine and Write are similar type works but they are defferant
+            // WriteLine and Write are similar type works but they are defferant sgfsd
             Console.Write("Hello");
             Console.Write("I will print on the same line.");
 
